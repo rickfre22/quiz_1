@@ -7,4 +7,4 @@ while i<=n:
     s=s+i
     i=i+1
 #output
-print(("la sum de los  ")+str(n)+" numeros es:" +str(s))
+print(("la suma de los  ")+str(n)+" numeros es:" +str(s))
